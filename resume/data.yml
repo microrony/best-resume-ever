@@ -32,7 +32,7 @@ skills:
   level: 100
 - name: JavaScript
   level: 100
-- name: React JS
+- name: ReactJS
   level: 100
 - name: Git
   level: 100
@@ -54,11 +54,12 @@ projects:
 contact:
   email: mahabuburr2020@gmail.com
   phone: +880 1625693482
-  street: Mymensingh,
-  city: Bangladesh
-  website: linkedin.com/in/microrony
+  street: 
+  city: Mymensingh, Bangladesh
+  website: https://dev.to/microrony
   github: microrony
   linkedin: microrony
+  twitter: microrony
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
