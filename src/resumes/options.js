@@ -55,6 +55,10 @@ function getVueOptions (name) {
                     links.linkedin = `https://linkedin.com/in/${this.person.contact.linkedin}`;
                 }
 
+                if(this.person.contact.twitter) {
+                    links.twitter = `https://twitter.com/${this.person.contact.twitter}`;
+                }
+
                 if(this.person.contact.phone) {
                     links.phone = `tel:${this.person.contact.phone}`;
                 }
