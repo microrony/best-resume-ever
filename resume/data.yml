@@ -29,7 +29,7 @@ skills:
 - name: HTML5
 - name: CSS3
 - name: JavaScript
-- name: React JS
+- name: ReactJS
 - name: Git
 - name: Linux
 knowledge: Also proficient in Figma and GIMP(Photo Manipulation Software).
@@ -37,7 +37,7 @@ knowledge: Also proficient in Figma and GIMP(Photo Manipulation Software).
 projects:
 - name: corona-tracker
   platform: React, React-Leaflet, JavaScript, Axios
-  description: React map with information about current pendamic.
+  description: This react map has all the information about the current pandemic. You can see how many people are affected, death, and recovered by the virus. It has many scopes for improvement. I am working on some new features like dashboard and search.
   url: https://github.com/microrony/corona-tracker
 
 # contributions:
