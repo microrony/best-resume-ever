@@ -38,24 +38,25 @@ skills:
   level: 100
 - name: Linux
   level: 100
-knowledge: Also proficient in Figma and GIMP(Photo Manipulation Software).
+- name: Figma
+  level: 100
+# knowledge: Also proficient in Figma and GIMP(Photo Manipulation Software).
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: corona-tracker
+  platform: React, React-Leaflet,
+  description: React map with information about current pendamic.
+  url: https://github.com/microrony/corona-tracker
 
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+# contributions:
+# - name: best-resume-ever
+#   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+#   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
   email: mahabuburr2020@gmail.com
   phone: +880 1625693482
-  street: Mymensingh
+  street: Mymensingh,
   city: Bangladesh
   website: linkedin.com/in/microrony
   github: microrony
