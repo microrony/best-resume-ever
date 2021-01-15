@@ -3,7 +3,7 @@ name:
   first: Mahabubur
   middle:
   last: Rahman
-about: Self-Taught Frontend Web Developer looking for my first role, interested in remote positions. Experienced in Responsive Web Design & Development. Love learning and working with new technologies. Skilled in solving problems, Figma, HTML, CSS, JavaScript/React, Sanity(CMS), WordPress, Linux, SASS, and Git.
+about: Self-Taught Frontend Web Developer looking for my first role, interested in remote positions. Experienced in Responsive Web Design & Development. Love learning and working with new technologies. Skilled in solving problems, HTML, CSS, JavaScript/React, Sanity(CMS), WordPress, Linux, SASS, and Git.
 position: Frontend Web Developer
 
 experience:
@@ -38,13 +38,11 @@ skills:
   level: 100
 - name: Linux
   level: 100
-- name: Figma
-  level: 100
-# knowledge: Also proficient in Figma and GIMP(Photo Manipulation Software).
+knowledge: Also proficient in Figma and GIMP(Photo Manipulation Software).
 
 projects:
 - name: corona-tracker
-  platform: React, React-Leaflet,
+  platform: React, React-Leaflet, JavaScript, Axios
   description: React map with information about current pendamic.
   url: https://github.com/microrony/corona-tracker
 
