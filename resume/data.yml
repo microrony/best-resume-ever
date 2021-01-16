@@ -6,6 +6,10 @@ name:
 about: Self-Taught Frontend Web Developer looking for my first role, interested in remote positions. Experienced in Responsive Web Design & Development. Love learning and working with new technologies. Skilled in solving problems, HTML, CSS, JavaScript, React JS, Sanity(CMS), WordPress, Linux, SASS, and Git.
 position: Frontend Web Developer
 
+birth:
+  year: 2000
+  location: Bangladesh
+
 experience:
 - company: Freelance
   position: Frontend Web Developer
