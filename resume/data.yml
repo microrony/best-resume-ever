@@ -40,6 +40,11 @@ projects:
   description: This react map has all the information about the current pandemic. You can see how many people are affected, death, and recovered by the virus. It has many scopes for improvement. I am working on some new features like dashboard and search.
   url: https://github.com/microrony/corona-tracker
 
+hobbies:
+- name: YouTubing
+  iconClass: fa fa-youtube
+  url: https://www.youtube.com/channel/UCOFbS-VexPKaIzSwI-u54DA
+
 # contributions:
 # - name: best-resume-ever
 #   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.

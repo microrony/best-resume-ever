@@ -72,7 +72,17 @@
           </span>
         </a>
 
-        <a v-if="person.contact.codefights"
+        <a v-if="person.contact.youtube"
+          :href="contactLinks.youtube"
+          class="external-link">
+
+          <i class="fa fa-youtube contact-icon"></i>
+          <span class="block-marged txt-full-white">
+            {{ person.contact.youtube }}
+          </span>
+        </a>
+
+        <!-- <a v-if="person.contact.codefights"
           :href="contactLinks.codefights"
           class="external-link">
 
@@ -85,20 +95,20 @@
           <span class="block-marged txt-full-white">
             {{ person.contact.codefights }}
           </span>
-        </a>
+        </a> -->
 
-        <a v-if="person.contact.medium"
+        <!-- <a v-if="person.contact.medium"
           :href="contactLinks.medium"
           class="external-link">
           <i class="fab fa-medium contact-icon"></i>
           <span class="block-marged txt-full-white">
             {{ person.contact.medium }}
           </span>
-        </a>
+        </a> -->
       </div>
 
       <div class="hobbies-container">
-        <!-- <span class="subheadline">Hobbies</span> -->
+        <span class="subheadline">Hobbies</span>
         <div class="hobbies-content">
           <a v-for="(hobby, index) in person.hobbies" :key="index"
             class="hobby-item"
